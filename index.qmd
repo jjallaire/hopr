@@ -15,7 +15,7 @@ This is the website for **"Hands-On Programming with R"**. This book will teach 
 If you are already comfortable with R, and would like to focus instead how to analyze data using R's Tidyverse packages, I recommend [R for Data Science](http://r4ds.had.co.nz/), a book that I co-authored with Hadley Wickham.
 
 ::: {.callout-note appearance="simple"}
-This book was originally created using [bookdown](https://bookdown.org) and published at <https://rstudio-education.github.io/hopr/>. This site is a port of the original book source to the [Quarto](https://quarto.org) publishing system in order to provide an example of it's use.
+This book was originally created using [bookdown](https://bookdown.org) and published at <https://rstudio-education.github.io/hopr/>. This site is a port of the original book source to the [Quarto](https://quarto.org) publishing system in order to provide an example of its use.
 :::
 
 ## License
